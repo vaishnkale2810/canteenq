@@ -1,0 +1,13 @@
+{
+  "name": "canteenq",
+  "version": "2.0.0",
+  "description": "Canteen crowd management app for colleges and offices, with a Node.js backend (no dependencies)",
+  "private": true,
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/smoke.js"
+  },
+  "license": "MIT"
+}
